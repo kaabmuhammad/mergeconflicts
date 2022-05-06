@@ -4,6 +4,6 @@
  * @param {Number} b
  * @return {Number}
  */
-function addPlusOne (a,b) {
-    return a+b
+function addPlusOne(a, b) {
+    return a + b
 }
